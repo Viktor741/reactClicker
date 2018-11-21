@@ -1,2 +1,0 @@
-# reactClicker
-Created with CodeSandbox
